@@ -3,6 +3,8 @@ const path = require('path');
 
 const nextConfig = {
   target: 'serverless',
+  transformManifest: manifest => ['/'].concat(manifest),
+  generateInDevMode: true,
   workboxOpts: {
     swDest: 'static/service-worker.js',
     runtimeCaching: [

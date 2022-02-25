@@ -10,6 +10,8 @@ export default class MyDocument extends Document {
             rel="stylesheet"
           />
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" />
+          <link rel="manifest" href="/manifest.json" />
+          <meta name="theme-color" content="#72B340" />
         </Head>
         <body>
           <Main />
