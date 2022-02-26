@@ -1,4 +1,4 @@
-# Next.js blog with comment section
+# Next.js profile + blog with comment section
 
 This is a demo of how to add a simple comment section to blog post using [Next.js](https://nextjs.org), [Sanity.io](https://www.sanity.io), and [Vercel](https://vercel.com).
 
@@ -20,3 +20,9 @@ npm run start:sanity
 ```
 
 The blog will be running at `http://localhost:3000`, the Studio will run at `http://localhost:3333`.
+
+***
+
+Static texts appearing on homepage, blogs and personal info can be configured. Edit [lib/constants.js](lib/constants.js) and commit.
+
+For modifying PWA details, edit [public/manifest.json](public/manifest.json)

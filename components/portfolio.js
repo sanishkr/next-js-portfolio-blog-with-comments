@@ -38,62 +38,6 @@ export default function Portfolio() {
             </li>)
             : null
             }
-            {/* <li className='m-0 p-0 list-none inline-block'>
-              <a
-                className="text-white inline-block px-3"
-                href="https://www.twitter.com/i_am_sanish"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Twitter"
-              >
-                <FontAwesomeIcon icon={faTwitterSquare} className='text-3xl' />
-              </a>
-            </li>
-            <li className='m-0 p-0 list-none inline-block'>
-              <a
-                className="text-white inline-block px-3"
-                href="https://www.facebook.com/sanishkr"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Facebook"
-              >
-                <FontAwesomeIcon icon={faFacebookSquare} className='text-3xl' />
-              </a>
-            </li>
-            <li className='m-0 p-0 list-none inline-block'>
-              <a
-                className="text-white inline-block px-3"
-                href="https://www.linkedin.com/in/sanishkr"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="LinkedIn"
-              >
-                <FontAwesomeIcon icon={faLinkedin} className='text-3xl' />
-                <i className="text-3xl icon-linkedin2"></i>
-              </a>
-            </li>
-            <li className='m-0 p-0 list-none inline-block'>
-              <a
-                className="text-white inline-block px-3"
-                href="https://www.instagram.com/i_am_sanish"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Instagram"
-              >
-                <FontAwesomeIcon icon={faInstagramSquare} className='text-3xl' />
-              </a>
-            </li>
-            <li className='m-0 p-0 list-none inline-block'>
-              <a
-                className="text-white inline-block px-3"
-                href="https://github.com/sanishkr/"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Github"
-              >
-                <FontAwesomeIcon icon={faGithubSquare} className='text-3xl' />
-              </a>
-            </li> */}
           </ul>
         </div>
       </div>

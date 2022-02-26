@@ -15,7 +15,7 @@ export default function Index({ allPosts, preview }) {
     <>
       <Layout preview={preview}>
         <Head>
-          <title>{PORTFOLIO.PERSONAL.NAME.FNAME} {PORTFOLIO.PERSONAL.NAME.LNAME} | Profile | Portfolio | Blogs</title>
+          <title>{PORTFOLIO.PERSONAL.NAME.FNAME} {PORTFOLIO.PERSONAL.NAME.LNAME} | Blog | Profile | Portfolio</title>
         </Head>
         <Portfolio/>
         <Container>

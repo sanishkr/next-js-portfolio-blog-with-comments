@@ -30,7 +30,7 @@ export default function Post({ post, morePosts, preview }) {
             <article>
               <Head>
                 <title>
-                  {post.title} | {PORTFOLIO.PERSONAL.NAME.FNAME} {PORTFOLIO.PERSONAL.NAME.LNAME} | Blogs
+                  {post.title} | {PORTFOLIO.PERSONAL.NAME.FNAME} {PORTFOLIO.PERSONAL.NAME.LNAME} | Blog
                 </title>
                 {/* <meta property="og:image" content={post.ogImage.url} /> */}
               </Head>
