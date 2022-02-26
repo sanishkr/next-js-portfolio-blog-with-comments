@@ -3,7 +3,7 @@
   "short_name": "Sanish Portfolio",
   "icons": [
     {
-      "src": "images/icon-144.png",
+      "src": "/icon-144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
